@@ -4,3 +4,4 @@ print("test")
 r = 5
 print(r*i)
 print("test")
+print("test")
