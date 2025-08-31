@@ -1,2 +1,0 @@
-print("sahas vaka")
-

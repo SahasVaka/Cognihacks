@@ -1,0 +1,9 @@
+openai
+numpy
+biopython
+requests
+typing-extensions
+python-dotenv
+flask
+flask-cors
+python-dotenv
